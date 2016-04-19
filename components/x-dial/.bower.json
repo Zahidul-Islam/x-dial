@@ -27,11 +27,11 @@
     "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
     "web-component-tester": "*"
   },
-  "_release": "38eb727727",
+  "_release": "86b732ef12",
   "_resolution": {
     "type": "branch",
     "branch": "master",
-    "commit": "38eb7277276c4347c56ee35129b8883d083d23c9"
+    "commit": "86b732ef12c75184676d0f372391d24ca4249077"
   },
   "_source": "git://github.com/zahidul-islam/x-dial.git",
   "_target": "master",
