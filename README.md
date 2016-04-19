@@ -1,6 +1,6 @@
-# seed-element
+# x-dial
 
-An element providing a starting point for your own reusable Polymer elements.
+A polymer Dial element.
 
 
 ## Dependencies
