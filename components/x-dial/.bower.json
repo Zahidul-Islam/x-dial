@@ -1,0 +1,40 @@
+{
+  "name": "x-dial",
+  "authors": [
+    "Zahidul Islam <zahidsharp@outlook.com>"
+  ],
+  "description": "A polymer Dial element.",
+  "keywords": [
+    "web-component",
+    "web-components",
+    "polymer",
+    "dial",
+    "gauge"
+  ],
+  "main": "x-dial.html",
+  "license": "http://polymer.github.io/LICENSE.txt",
+  "homepage": "https://github.com/zahidul-islam/x-dial/",
+  "ignore": [
+    "/.*",
+    "/test/",
+    "/demo/"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.0.0",
+    "google-chart": "GoogleWebComponents/google-chart#^1.0.4"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
+    "web-component-tester": "*"
+  },
+  "_release": "38eb727727",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "38eb7277276c4347c56ee35129b8883d083d23c9"
+  },
+  "_source": "git://github.com/zahidul-islam/x-dial.git",
+  "_target": "master",
+  "_originalSource": "zahidul-islam/x-dial",
+  "_direct": true
+}
